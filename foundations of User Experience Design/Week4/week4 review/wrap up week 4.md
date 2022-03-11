@@ -1,0 +1,2 @@
+0:00
+We've made it to the end of the week, congrats. This week we explored building a strong portfolio and online presence. We also reviewed what it's like to network in the real world and ways to practice. It's been a pleasure to guide you through all of this important information this week. Move on to the next video to wrap up the course.

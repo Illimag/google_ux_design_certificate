@@ -1,0 +1,3 @@
+Hey, I hope that you've enjoyed your first two weeks of the course.
+Play video starting at ::5 and follow transcript0:05
+So far, you've learned about the UX design career field, explored common UX design frameworks, and learned about user-centered design. You also spent some time with my colleague Shabi to understand equity-focused design and the importance of accessibility in the design process. Now it's time to switch gears and learn about the world of design sprints, including the phases of a design sprint and how to plan and participate in one. You'll also learn about retrospectives, which are a way to reflect on a design sprint and identify areas of improvement to implement into your designs. Let's get to it.

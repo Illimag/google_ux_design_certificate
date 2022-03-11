@@ -1,0 +1,2 @@
+1
+Hey, welcome back. You now know all about design sprints and how you fit in as an entry level UX designer. Next, you'll learn what a portfolio is and why UX designers use them; how to choose a website builder for your portfolio and start to create your website; how to demonstrate your unique value and personal brand through the story you tell; how to describe your work concisely and articulately, and how to create a consistent online presence; and finally, how to network with others and find a UX design mentor.
