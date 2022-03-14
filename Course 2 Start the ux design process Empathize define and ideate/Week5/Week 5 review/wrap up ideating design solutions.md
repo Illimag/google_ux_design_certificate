@@ -1,0 +1,3 @@
+All right. You're doing a great job so far, using what you learned during the empathize phase, you've started to ideate.
+Play video starting at ::10 and follow transcript0:10
+You started by learning the basics of design ideation and how to meet business needs. Next, we went over the importance of competitive audits and the steps to take to complete them. Then we began sketching our ideas with the how might we and Crazy Eights design exercises. Now, you're ready to start thinking about creating a competitive audit for your first project and building a report that will help you begin designing your app. Gather up all of your notes and get ready to start your first competitive audit.

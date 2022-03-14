@@ -1,0 +1,2 @@
+
+Welcome back. I hope you enjoyed learning about how to empathize with users and understand the design problem. Now, we'll enter the ideation phase of the design thinking process, where we'll focus on understanding design ideation, conducting competitive audits, brainstorming approaches like "how might we" and Crazy Eights, and determining if we need additional research. Keep in mind, the ideation phase is where we transition from learning about users and the problem to coming up with solutions.
