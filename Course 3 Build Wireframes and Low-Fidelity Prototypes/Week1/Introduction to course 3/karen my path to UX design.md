@@ -1,0 +1,9 @@
+Before I became a UX designer, I worked in a few areas. I worked in event planning. I also worked as a business development analyst. I also worked in marketing and at one point, I was a paralegal. In order to do that, I had to be really detailed and organized and stay on top of the different tasks that I had to handle in order to move the project forward. I feel the skills that I gained from being an event planner, of being very detailed and organized, really helped me be successful at leading projects here. I got into UX design when I was working as a business development analyst and I was taking continuing ed classes at night.
+Play video starting at ::50 and follow transcript0:50
+I discovered interaction design while I was taking an information design class, and we were asked to make an infographic that's interactive.
+Play video starting at :1: and follow transcript1:00
+I did a search online trying to figure out what that meant and somehow stumbled across interaction design. While I was working full time, I started to put together a portfolio to apply to grad schools. My favorite part about being a UX designer is being able to work on complex problems and trying to simplify these problems into solutions that work for users.
+Play video starting at :1:27 and follow transcript1:27
+I get into a flow state. I'm very focused and my mind is just focused on designing the different connection points going from one screen to another and all the different ways that the app could flow. I really like being able to think about,
+Play video starting at :1:44 and follow transcript1:44
+"I have these findings that I gained from talking to research participants. How do I bring it back into my design, like a fully developed product?" It feels amazing to see the work that you did in wireframes in real life, in people's hands. Hi, I'm Karen, and I'm an interaction designer.
